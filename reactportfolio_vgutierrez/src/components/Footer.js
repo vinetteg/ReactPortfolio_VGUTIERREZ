@@ -5,7 +5,7 @@ import "../styles/Footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      <h1>Home</h1>
+      <h1>Footer</h1>
     </footer>
   );
 }
