@@ -1,8 +1,10 @@
 import React from 'react';
+// import aboutPhoto from '../public/images/IMG_5790.jpeg';
 
 export default function About() {
   return (
     <div>
+      {/* <img src={aboutPhoto} alt="Photo of Vinette G"/> */}
       <h1>About Me</h1>
       <p>
       My name is Vinette Gutierrez. I'm an aspiring coding wizard and web

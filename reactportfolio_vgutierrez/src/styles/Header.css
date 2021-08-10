@@ -1,5 +1,5 @@
 .header {
-  background: #f9b713;
+    background: #baa1a7;
   height: 200px;
 }
 
@@ -9,4 +9,6 @@
   text-align: center;
   color: white;
   font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  
 }

@@ -4,7 +4,8 @@ import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
-import Form from './Form'
+import Form from './Form';
+import "../styles/PortfolioContainer.css";
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About Me');
