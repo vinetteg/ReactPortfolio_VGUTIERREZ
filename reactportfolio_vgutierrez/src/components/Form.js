@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import "../styles/Form.css";
 
 // Here we import a helper function that will check if the email is valid
 import { checkComment, validateEmail } from './utils/helpers';
@@ -39,12 +39,12 @@ function Form() {
       return;
       // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
     }
-    if (!checkComment(comment)) {
-      setErrorMessage(
-        `Thank you! I will get back to you shortly!`
-      );
-      return;
-    }
+    // if (!checkComment(comment)) {
+    //   setErrorMessage(
+    //     `Thank you! I will get back to you shortly!`
+    //   );
+    //   return;
+    // }
     alert(`Hello ${userName}. `);
 
     // If everything goes according to plan, we want to clear out the input after a successful registration.

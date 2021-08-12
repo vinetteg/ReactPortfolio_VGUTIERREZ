@@ -1,8 +1,6 @@
 .App {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  
-
+  font-family: "Montserrat", sans-serif;
 }
 
 .App-logo {
@@ -25,7 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .App-link {
@@ -39,4 +37,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1 {
+  text-align: center;
 }

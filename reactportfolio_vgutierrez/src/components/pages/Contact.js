@@ -1,5 +1,6 @@
-import React from 'react';
-import Form from '../Form'
+import React from "react";
+import Form from "../Form";
+// import "./styles/Contact.css";
 
 export default function Contact() {
   return (
