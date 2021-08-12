@@ -24,8 +24,19 @@ export default function Portfolio() {
               Should I Eat? was created with the idea that a user has a main
               ingredient in mind, but is in search of a few recipe options.
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Deployed Application:{" "}
+              <a
+                href=" https://vinetteg.github.io/WhatShouldIEat_Project1/"
+                rel="noreferrer"
+              >
+                {" "}
+                https://vinetteg.github.io/WhatShouldIEat_Project1/
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a href="https://github.com/vinetteg/WhatShouldIEat_Project1">
+                https://github.com/vinetteg/WhatShouldIEat_Project1{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -44,8 +55,16 @@ export default function Portfolio() {
               Users will also be able to see other users hikes and comment on
               them.
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Deployed Application:{" "}
+              <a href=" https://lit-tor-33671.herokuapp.com" rel="noreferrer">
+                {" "}
+                https://lit-tor-33671.herokuapp.com
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a href="https://github.com/vinetteg/TakeAHike_TeamProject2">
+                https://github.com/vinetteg/TakeAHike_TeamProject2{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -65,8 +84,19 @@ export default function Portfolio() {
               characters long. Push the "Generate Passwoord," button to try it
               out!
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Deployed Application:{" "}
+              <a
+                href="https://vinetteg.github.io/VGUTIERREZ_Password_Genorator/"
+                rel="noreferrer"
+              >
+                {" "}
+                https://vinetteg.github.io/VGUTIERREZ_Password_Genorator/
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a href="https://github.com/vinetteg/VGUTIERREZ_Password_Genorator">
+                https://github.com/vinetteg/VGUTIERREZ_Password_Genorator{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -86,8 +116,19 @@ export default function Portfolio() {
               build a basic readme file for any project using node.js. This will
               allow a creator to spend more time working on their project.
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Video Demo:{" "}
+              <a
+                href="https://www.youtube.com/watch?v=dV2_mTiKYO4&t=39s"
+                rel="noreferrer"
+              >
+                {" "}
+                https://www.youtube.com/watch?v=dV2_mTiKYO4&t=39s
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a href="https://github.com/vinetteg/VGUTIERREZ_README_GENERATOR">
+                https://github.com/vinetteg/VGUTIERREZ_README_GENERATOR{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -104,8 +145,19 @@ export default function Portfolio() {
               stayed up to date. It can also be used by anyone looking to
               organize their thoughts and keep track of any tasks.
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Video Demo:{" "}
+              <a
+                href="https://www.youtube.com/watch?v=_kb5rKS2s0k"
+                rel="noreferrer"
+              >
+                {" "}
+                https://www.youtube.com/watch?v=_kb5rKS2s0k
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a href="https://github.com/vinetteg/mySQL_employeeTracker_VGUTIERREZ">
+                https://github.com/vinetteg/mySQL_employeeTracker_VGUTIERREZ{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -122,8 +174,22 @@ export default function Portfolio() {
               This employee tracker is meant to help a business keep track of
               departments, roles and employees.
               <br />
-              Deployed application: <br />
-              Github Repository:
+              Video Demo:{" "}
+              <a
+                href="https://www.youtube.com/watch?v=rg2Db83Oc_s"
+                rel="noreferrer"
+              >
+                {" "}
+                https://www.youtube.com/watch?v=rg2Db83Oc_s
+              </a>
+              <br />
+              Github Repository:{" "}
+              <a
+                href="https://github.com/vinetteg/mySQL_employeeTracker_VGUTIERREZ"
+                rel="noreferrer"
+              >
+                https://github.com/vinetteg/mySQL_employeeTracker_VGUTIERREZ{" "}
+              </a>
             </Card.Text>
           </Card.Body>
           <Card.Footer>
