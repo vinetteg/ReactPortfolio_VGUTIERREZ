@@ -1,4 +1,58 @@
-# Getting Started with Create React App
+# My First React Portfolio
+
+# Description
+
+This is the first draft of my react portfolio. It uses React, CSS, Javascript and HTML and shows basic information about me.
+
+# Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributers](#contributers)
+- [Test Instructions](#test-instructions)
+- [Questions](#questions)
+
+# Installation
+
+<a name="installation"></a>
+This is the first installation of this project.
+
+# Usage
+
+<a name="usage"></a>
+
+My First React Portfolio is my first time showcasing my work using React and is my first step to using this portfolio in a professional setting.
+
+![Profile Image 1](src/images/screenshot2.png)<br>
+![Profile Image 2](src/images/screenshot1.png)
+
+# License
+
+<a name="license"></a>
+
+- MIT
+
+# Contributers
+
+<a name="contributers"></a>
+
+- Vinette Gutierrez
+
+# Test Instructions
+
+<a name="test-instructions"></a>
+
+Check out my deployed profile [here](https://vinetteg.github.io/vgutierrez_reactportfolio/#portfolio)
+
+# Questions
+
+<a name="questions"></a>
+
+- [Github Link](https://github.com/vinetteg/vgutierrez_reactportfolio)
+- For additional questions, please contact me via email at vinette.gutierrez@gmail.com
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +121,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
