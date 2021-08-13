@@ -1,19 +1,17 @@
-svg {    
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;}
-
+svg {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
 
 social-container {
-    padding 25px 50px; 
-
+  padding: 30px 50px;
 }
 
 a.social {
-    margin: 0 1rem;
-    transition: transform 250ms;
+  margin: 0 1rem;
+  transition: transform 250ms;
 }
 
 a.github {
-    color: black;
+  color: black;
 }
-

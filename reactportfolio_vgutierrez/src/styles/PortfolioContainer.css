@@ -1,6 +1,7 @@
 div {
   font-family: "Montserrat", sans-serif;
   background-color: hsl(0, 22%, 77%);
+  text-align: center;
 }
 
 h1 {
@@ -15,4 +16,8 @@ img {
 
 h5 {
   background-color: #baa1a7;
+}
+
+nav-link {
+  background-color: aquamarine;
 }

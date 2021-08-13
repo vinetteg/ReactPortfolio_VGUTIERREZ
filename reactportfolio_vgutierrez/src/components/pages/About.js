@@ -5,7 +5,8 @@ export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <img src={Photo} alt="Photo of me" />
+      <img src={Photo} alt="Vinette G." />
+      <br />
       <p>
         My name is Vinette Gutierrez. I'm an aspiring keyboard magician and web
         developer. I'm learning full stack web developement at the University of
