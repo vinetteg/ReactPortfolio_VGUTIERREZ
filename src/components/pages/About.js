@@ -10,7 +10,12 @@ export default function About() {
       <p>
         My name is Vinette Gutierrez. I'm an aspiring keyboard magician and web
         developer. I'm learning full stack web developement at the University of
-        Washington. I'm interested in turning coding into a career.
+        Washington. I'm interested in turning coding into a career and moving
+        forward towards a goal of becoming a Front End Developer.
+        <br /> <br />
+        My skills include: HTML5, CSS3, JavaScript, jQuery, Express.js,
+        React.js, Node.js, progressive web apps, agile methodology, computer
+        science, database theory, MongoDB, MySQL, Git, React
         <br />
         <br />
         Outside of coding and web development, I currently work in Customer
