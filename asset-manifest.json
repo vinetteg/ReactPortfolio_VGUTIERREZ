@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vgutierrez_reactportfolio/static/css/main.e602cd5f.chunk.css",
+    "main.css": "/vgutierrez_reactportfolio/static/css/main.5fe63e94.chunk.css",
     "main.js": "/vgutierrez_reactportfolio/static/js/main.d9640f1f.chunk.js",
     "main.js.map": "/vgutierrez_reactportfolio/static/js/main.d9640f1f.chunk.js.map",
     "runtime-main.js": "/vgutierrez_reactportfolio/static/js/runtime-main.f7662446.js",
@@ -10,7 +10,7 @@
     "static/js/2.a7d799fd.chunk.js.map": "/vgutierrez_reactportfolio/static/js/2.a7d799fd.chunk.js.map",
     "index.html": "/vgutierrez_reactportfolio/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/vgutierrez_reactportfolio/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.e602cd5f.chunk.css.map": "/vgutierrez_reactportfolio/static/css/main.e602cd5f.chunk.css.map",
+    "static/css/main.5fe63e94.chunk.css.map": "/vgutierrez_reactportfolio/static/css/main.5fe63e94.chunk.css.map",
     "static/js/2.a7d799fd.chunk.js.LICENSE.txt": "/vgutierrez_reactportfolio/static/js/2.a7d799fd.chunk.js.LICENSE.txt",
     "static/media/IMG_5790.306c2729.jpeg": "/vgutierrez_reactportfolio/static/media/IMG_5790.306c2729.jpeg",
     "static/media/PassGen.9776a7e0.png": "/vgutierrez_reactportfolio/static/media/PassGen.9776a7e0.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.f7662446.js",
     "static/css/2.da1eef19.chunk.css",
     "static/js/2.a7d799fd.chunk.js",
-    "static/css/main.e602cd5f.chunk.css",
+    "static/css/main.5fe63e94.chunk.css",
     "static/js/main.d9640f1f.chunk.js"
   ]
 }
