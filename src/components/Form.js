@@ -57,7 +57,8 @@ function Form() {
     <div>
       <p>
         Hello {userName}! Please add your contact information if you'd like more
-        info.
+        info.You can also contact me directly by emailing
+        vinette.gutierrez@gmail.com
       </p>
       <form className="form">
         <input
